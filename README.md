@@ -9,7 +9,7 @@ Tenho mais de 4 anos de experiência criando interfaces web responsivas e acess�
 
 - 🎓 Graduanda em **Internet das Coisas e Computação em Nuvem** - FMU (2026 - 2028)
 - 🎓 Graduada em **Gestão da Tecnologia da Informação** - UNINOVE (2017 - 2019)
-- 💡 Interesse especial em **automação** e **sistemas embarcados**
+- 💡 Interesse especial em **desenvolvimento** e **automação**
 - 🐍 Estudando **Python** ativamente
 - 📍 São Paulo, SP
 
@@ -27,8 +27,6 @@ Tenho mais de 4 anos de experiência criando interfaces web responsivas e acess�
 ### Em desenvolvimento
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-00B4D8?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00878F.svg?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ---
 
